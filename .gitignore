@@ -1,0 +1,19 @@
+# Ignore all
+*
+
+# Except GitHub
+!/.github
+!/.github/**
+
+# Except Git
+!.gitignore
+!LICENSE.md
+!README.md
+
+# Except Dolus
+!/dolus
+!/dolus/**
+
+# Except demo
+!/demo
+!/demo/**
